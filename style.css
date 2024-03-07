@@ -1,0 +1,76 @@
+#nav{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: smaller;
+}
+#button{
+    color: blue;
+    font-size: xx-small;
+    border-radius: 20px;
+}
+#sentence{
+ font-size: x-small;  
+}
+button{
+    background-color: blue;
+}
+#start{
+    
+    
+}
+h4{
+    color: red;
+}
+#sentence2{
+    font-size: x-small;
+    display: flex;
+}
+#paragraph2{
+    font-size: small;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#container1{
+    display: flex;
+}
+#paragraph3{
+    
+    font-size: small;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#pricing{
+    justify-content: space-between;
+    flex-direction: row;
+    text-align: center;
+}
+#plan{
+    display: flex;
+    justify-content: space-between;
+}
+#team{
+    text-align: center;
+    
+}
+#number{
+    font-size: x-small;
+}
+#test{
+    text-align: center;
+}
+#mode{
+    display: flex;
+    justify-content: space-between;
+    font-size: x-small;
+}
+#ending{
+    display: flex;
+    justify-content: space-between;
+    font-size: x-small;
+}
+
+@media all and (max-width:500px)
+{body}
+
